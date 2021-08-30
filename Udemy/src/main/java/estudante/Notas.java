@@ -1,4 +1,4 @@
-package udemy.estudante;
+package estudante;
 
 import java.util.Scanner;
 
